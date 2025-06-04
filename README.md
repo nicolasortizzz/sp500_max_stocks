@@ -1,2 +1,2 @@
-# Modelo_Markowitz_sp500
+# Modelo_Markowitz
 Optimizacion esperanza/varianza de un conjunto acciones del sp500
